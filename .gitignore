@@ -1,0 +1,7 @@
+#OS generated files #
+#################
+.DS_Store*
+
+#ignore temporary files#
+/tmp
+/log/*.log
